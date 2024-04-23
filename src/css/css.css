@@ -1,0 +1,159 @@
+.background{
+  background:rgba(255, 247, 226, 1);
+}
+.color{
+  color:rgba(58, 100, 59, 1);
+  
+}
+.font{
+  font-weight: 700;
+}
+
+.text{
+  text-decoration: underline  #C3D0C4;
+  font-family: DINPro-Bold;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: center;
+  width:70vw;
+}
+
+.text2{
+  font-family: DINPro-Bold;
+font-size: 48px;
+font-weight: 700;
+line-height: 67.2px;
+text-align: left;
+}
+
+.text3{
+  font-family: DINPro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #666666;
+  width:35vw
+}
+.color2{
+  color: #666666;
+}
+
+.text4{
+  font-family: Inknut Antiqua;
+font-size: 32px;
+font-weight: 700;
+line-height: 50.88px;
+
+}
+
+.card-text{
+  font-family: DINPro;
+font-size: 64px;
+font-weight: 500;
+line-height: 82.43px;
+text-align: center;
+color:rgba(255, 247, 226, 1);
+
+}
+.text5{
+  font-family: DINPro-Bold;
+font-size: 25px;
+font-weight: 700;
+line-height: 30.91px;
+}
+.text6{
+  font-family: DINPro;
+font-size: 20px;
+font-weight: 400;
+line-height: 25.76px;
+text-align: left;
+color:#414141;
+
+}
+.para1{
+  font-family: DIN Medium;
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+}
+.para2{
+  font-family: Nexa Light;
+font-size: 18px;
+font-weight: 400;
+line-height: 8px;
+text-align: left;
+color:#666666
+}
+.text7{
+  
+font-family: DM Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+
+}
+.data{
+  font-family: Nexa Light;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  
+}
+
+.para3{
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color:#555555
+}
+.background2{
+  background:#d3d1d1b9
+}
+.colgroup{
+color: #474747;
+
+}
+.textt{
+  font-size:25px
+}
+
+@media (max-width: 768px) {
+  .text2{
+    font-family: DINPro-Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 33.6px;
+text-align: left;
+
+  }
+  .textt{
+    font-size: 18px;
+  }
+  .text3{
+    width:90vw;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .text{
+    width:80vw;
+    font-size: 32px;
+    text-decoration:none;
+    line-height: 36px;
+  }
+  .center1{
+    align-items: center;
+    justify-content: center;
+  }
+  .card-text{
+font-size:32px;
+line-height:41.22px;
+width:60vw
+  }
+}
